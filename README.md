@@ -99,9 +99,3 @@ systems, real MCP registries, or third-party infrastructure.
 
 If any finding in this repository is relevant to a specific vendor or product,
 responsible disclosure will be conducted prior to publication.
-
----
-
-*By [Ayyanna Mulya](https://github.com/ayyannamulya) ·
-[Portfolio](https://ayyanna-mulya.vercel.app) ·
-[LinkedIn](https://linkedin.com/in/noviyartimulyadi)*
